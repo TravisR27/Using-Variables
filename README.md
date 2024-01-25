@@ -1,22 +1,52 @@
 # Your First Computer Program and Using-Variables
 
-#This is a description on how to change a variable to an integer
+Practical Task 1
+Follow these steps:
+● Create a new Python file in the Dropbox folder for this task, and call it
+hello_world.py.
+● First, provide pseudo code as comments in your Python file, outlining
+how you will solve this problem (you’ll need to read the rest of this
+practical task first of course!).
+● Now, inside your hello_world.py file, write Python code to take in a user’s
+name using input() and then print out the name.
+● Use the same input and output approach to take in a user’s age and
+print it out.
+● Finally, print the string “Hello World!” on a new line (the new line will
+happen by default if you use a separate print statement to the one you
+used immediately above to print out the age, because each print
+statement automatically inserts an “enter”, or newline instruction, at the
+end).
 
-num1 = 99.33 
-int_num1 = int (num1) 
-print(int_num1) 
+Practical Task 2
+Follow these steps:
+● Create a new Python file in the Dropbox folder for this task, and call it
+details.py.
+● As in practical task 1, please first provide pseudo code as comments in
+your Python file, outlining how you will solve this problem.
+● Use an input() command to get the following information from the
+user.
+○ Name
+○ Age
+○ House number
+○ Street name
+● Print out a single sentence containing all the details of the user.
+● For example:
+This is John Smith. He is 28 years old and lives at house
+number 42 on Hamilton Street.
 
-#This is a description on how to change a variable to a float
-num2 = 23 
-float_num2 = float (num2) 
-print(float_num2) 
-
-# This is a description on how to change a variable into a string
-num3 = "150" 
-string_num3 = str(num3) 
-print(string_num3) 
-
-# This is a description on how to change a variable into a integer
-string1 = "100"
-int_string1 = int (string1) 
-print(int_string1) 
+Practical Task 3
+Follow these steps:
+● Create a new Python file in this folder called conversion.py
+● As in the previous practical tasks, please first provide pseudo code as
+comments in your Python file, outlining how you will solve this problem.
+● Declare the following variables:
+○ num1 = 99.23
+○ num2 = 23
+○ num3 = 150
+○ string1 = “100”
+● Convert them as follows:
+○ num1 into an integer
+○ num2 into a float
+○ num3 into a String
+○ string1 into an integer
+● Print out all the variables on separate lines
